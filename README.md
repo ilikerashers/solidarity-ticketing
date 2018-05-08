@@ -1,4 +1,4 @@
-# solidarity-ticketing
+# solidity-ticketing
 
 Ticketing system implemented via Ethereum blockchain
 
